@@ -1,6 +1,13 @@
-# filmaroo
+# Filmaroo
 
 Flutter aplication about movies and series
+Aplicaion hecha con Flutter sobre series y peliculas
+
+### API used in this app
+- [API - TheMovieDB](https://developers.themoviedb.org)
+
+![Filmaroo](https://i.ibb.co/88hx1D3/filmaroo.gif)
+
 
 ## Getting Started
 

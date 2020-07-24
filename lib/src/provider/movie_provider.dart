@@ -10,8 +10,7 @@ class MovieProvider {
 
   //Para obtener tu api Key es necesario que te registres en The MovieDB
   //https://developers.themoviedb.org/3/getting-started/introduction
-  static final _apiKey = ""; //<-- Aqui coloca tu apiKey
-
+  static final _apiKey = "bd9b75d805e25119ebc1ba2145d56391"; //<-- Aqui coloca tu apiKey
   static final _baseUrl = "api.themoviedb.org";
   static final _language = "es-ES";
   static final _versionApi = 3;

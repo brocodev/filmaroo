@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:filmaroo/src/models/movie.dart';
 import 'package:filmaroo/src/pages/widgets/card_image.dart';
-import 'package:filmaroo/src/pages/widgets/genres_wrap_list.dart';
-import 'package:filmaroo/src/pages/widgets/movie_cast_container.dart';
+import 'file:///C:/Users/Kevin/Documents/Projects/flutter/filmaroo/lib/src/pages/widgets/movie_detail/genres_wrap_list.dart';
+import 'file:///C:/Users/Kevin/Documents/Projects/flutter/filmaroo/lib/src/pages/widgets/movie_detail/movie_cast_container.dart';
 import 'package:filmaroo/src/pages/widgets/row_stars.dart';
 import 'package:filmaroo/src/utils/parse_date.dart';
 import 'package:flutter/cupertino.dart';
