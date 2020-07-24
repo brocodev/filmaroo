@@ -6,7 +6,7 @@ Aplicacion hecha con Flutter sobre series y peliculas
 ### API used in this app
 - [API - TheMovieDB](https://developers.themoviedb.org)
 
-![Filmaroo](https://i.ibb.co/LS4k3Cn/filmaroo.gif)
+![Filmaroo](https://i.ibb.co/88hx1D3/filmaroo.gif)
 
 
 ## Getting Started
