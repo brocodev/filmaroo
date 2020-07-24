@@ -1,7 +1,7 @@
 import 'package:filmaroo/src/provider/movie_provider.dart';
 import 'package:flutter/material.dart';
 
-import 'widgets/home/horizontal_movie_list.dart';
+import 'horizontal_movie_list.dart';
 
 class PopularMoviesSection extends StatelessWidget {
   const PopularMoviesSection({

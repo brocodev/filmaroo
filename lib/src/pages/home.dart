@@ -1,4 +1,4 @@
-import 'package:filmaroo/src/pages/popular_movies_section.dart';
+import 'package:filmaroo/src/pages/widgets/home/popular_movies_section.dart';
 import 'package:filmaroo/src/searchs/search_movie_delegate.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
